@@ -1,0 +1,37 @@
+{
+	"name": "youtube-custom-links",
+	"version": "1.0.0",
+	"description": "In addition to the YouTube Data API, it extracts the customs links of a youtube channel",
+	"main": "main.js",
+	"dependencies": {
+		"cheerio": "^0.20.0",
+		"request": "^2.72.0"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"should": ">= 0.0.1"
+	},
+	"scripts": {
+		"test": "node_modules/.bin/mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thomasbrueggemann/youtube-custom-links.git"
+	},
+	"keywords": [
+		"youtube",
+		"custom",
+		"links",
+		"customlinks",
+		"links",
+		"urls",
+		"website",
+		"websites"
+	],
+	"author": "Thomas Brüggemann",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/thomasbrueggemann/youtube-custom-links/issues"
+	},
+	"homepage": "https://github.com/thomasbrueggemann/youtube-custom-links"
+}
