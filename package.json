@@ -1,6 +1,6 @@
 {
 	"name": "youtube-custom-links",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "In addition to the YouTube Data API, it extracts the customs links of a youtube channel",
 	"main": "main.js",
 	"dependencies": {
