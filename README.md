@@ -1,4 +1,4 @@
-# YouTube Custom Links
+# YouTube Custom Links  [![Build Status](https://travis-ci.org/thomasbrueggemann/youtube-custom-links.svg?branch=master)](https://travis-ci.org/thomasbrueggemann/youtube-custom-links.js) [![npm](https://img.shields.io/badge/npm-1.0.1-blue.svg)](https://www.npmjs.com/package/youtube-custom-links)
 In addition to the YouTube Data API, it extracts the customs links of a youtube channel
 
 ## Install
