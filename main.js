@@ -16,6 +16,11 @@ module.exports = {
 		// trigger the request
 		request(options, function(error, response, body) {
 
+			// check if a response is available at all
+			if(!response) {
+				return callback(500, null);
+			}
+
 			// check the response code
 			if (!error && response.statusCode === 200) {
 
